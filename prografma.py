@@ -124,7 +124,7 @@ def menu():
     while Continuar_Programa:
         print("\nBienvenido a FMA V1")
         print("Seleccione la operación a realizar")
-        print("consultar cetes  : 1")
+        print("consultar serie aleatoria (IPC)  : 1")
         print("calcular interés  : 2")
         print("salir: 3")
         try:
